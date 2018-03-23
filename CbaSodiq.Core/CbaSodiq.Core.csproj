@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{C32B250D-A5DB-42E4-8618-2C5F3857B9C1}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>CbaSodiq.Core</RootNamespace>
+    <AssemblyName>CbaSodiq.Core</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="FluentNHibernate">
+      <HintPath>..\packages\FluentNHibernate.2.0.3.0\lib\net40\FluentNHibernate.dll</HintPath>
+    </Reference>
+    <Reference Include="Iesi.Collections">
+      <HintPath>..\packages\Iesi.Collections.4.0.1.4000\lib\net40\Iesi.Collections.dll</HintPath>
+    </Reference>
+    <Reference Include="NHibernate">
+      <HintPath>..\packages\NHibernate.4.0.4.4000\lib\net40\NHibernate.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Class1.cs" />
+    <Compile Include="Maps\AtmTerminalMap.cs" />
+    <Compile Include="Maps\BranchMap.cs" />
+    <Compile Include="Maps\ConfigurationMap.cs" />
+    <Compile Include="Maps\CustomerAccountMap.cs" />
+    <Compile Include="Maps\CustomerMap.cs" />
+    <Compile Include="Maps\ExpenseIncomeEntryMap.cs" />
+    <Compile Include="Maps\GlAccountMap.cs" />
+    <Compile Include="Maps\GlCategoryMap.cs" />
+    <Compile Include="Maps\GlPostingMap.cs" />
+    <Compile Include="Maps\NodeMap.cs" />
+    <Compile Include="Maps\RoleMap.cs" />
+    <Compile Include="Maps\TellerPostingMap.cs" />
+    <Compile Include="Maps\TillToUserMap.cs" />
+    <Compile Include="Maps\TransactionMap.cs" />
+    <Compile Include="Maps\UserMap.cs" />
+    <Compile Include="Models\AccountConfiguration.cs" />
+    <Compile Include="Models\AtmTerminal.cs" />
+    <Compile Include="Models\Branch.cs" />
+    <Compile Include="Models\Customer.cs" />
+    <Compile Include="Models\CustomerAccount.cs" />
+    <Compile Include="Models\ExpenseIncomeEntry.cs" />
+    <Compile Include="Models\GlAccount.cs" />
+    <Compile Include="Models\GlCategory.cs" />
+    <Compile Include="Models\GlPosting.cs" />
+    <Compile Include="Models\Node.cs" />
+    <Compile Include="Models\Role.cs" />
+    <Compile Include="Models\TellerPosting.cs" />
+    <Compile Include="Models\TillToUser.cs" />
+    <Compile Include="Models\Transaction.cs" />
+    <Compile Include="Models\User.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ViewModels\CustomerAccountViewModels\CustomerAccountJsonViewModel.cs" />
+    <Compile Include="ViewModels\CustomerAccountViewModels\EditCustomerAccountViewModel.cs" />
+    <Compile Include="ViewModels\FinancialReportViewModel\LiabilityViewModel.cs" />
+    <Compile Include="ViewModels\FinancialReportViewModel\TrialBalanceViewModel.cs" />
+    <Compile Include="ViewModels\GlPostingViewModels\CreateGlPostViewModel.cs" />
+    <Compile Include="ViewModels\GlViewModels\AddGlActViewModel.cs" />
+    <Compile Include="ViewModels\GlViewModels\EditGlAccountViewModel.cs" />
+    <Compile Include="ViewModels\UserViewModels\AddNewUserViewModel.cs" />
+    <Compile Include="ViewModels\UserViewModels\ChangeUserPasswordViewModel.cs" />
+    <Compile Include="ViewModels\UserViewModels\EditUserInformationViewModel.cs" />
+    <Compile Include="ViewModels\UserViewModels\LoginViewModel.cs" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

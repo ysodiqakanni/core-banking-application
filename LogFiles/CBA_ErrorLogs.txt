@@ -1,0 +1,8 @@
+No node is configured! 10/Jan/2017 11:30:32 AM
+
+Message: An attempt was made to access a socket in a way forbidden by its access permissions 	 InnerException  16/Jan/2017 12:31:04 PM
+
+Message: An attempt was made to access a socket in a way forbidden by its access permissions 	 InnerException  16/Jan/2017 01:22:12 PM
+
+Message: An attempt was made to access a socket in a way forbidden by its access permissions 	 InnerException  16/Jan/2017 01:35:36 PM
+

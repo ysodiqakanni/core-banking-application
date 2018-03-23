@@ -1,0 +1,1150 @@
+Initializing nodes... 10/Jan/2017 11:30:32 AM
+
+Initializing nodes... 10/Jan/2017 11:41:52 AM
+
+My FEP node1 now listening on port 1500 10/Jan/2017 11:41:52 AM
+
+my fep node2 now listening on port 1509 10/Jan/2017 11:41:52 AM
+
+1 is now connected 10/Jan/2017 11:44:37 AM
+
+1 is disonnected 10/Jan/2017 11:49:37 AM
+
+1 is now connected 10/Jan/2017 11:49:37 AM
+
+1 is disonnected 10/Jan/2017 11:50:33 AM
+
+1 is now connected 10/Jan/2017 11:52:25 AM
+
+1 is disonnected 10/Jan/2017 11:56:45 AM
+
+1 is now connected 10/Jan/2017 11:57:41 AM
+
+1 is disonnected 10/Jan/2017 12:00:12 PM
+
+1 is now connected 10/Jan/2017 12:02:15 PM
+
+1 is disonnected 10/Jan/2017 12:04:11 PM
+
+1 is now connected 10/Jan/2017 12:04:59 PM
+
+1 is disonnected 10/Jan/2017 12:10:17 PM
+
+1 is now connected 10/Jan/2017 12:10:51 PM
+
+1 is disonnected 10/Jan/2017 12:17:29 PM
+
+1 is now connected 10/Jan/2017 12:17:30 PM
+
+1 is disonnected 10/Jan/2017 12:22:29 PM
+
+1 is now connected 10/Jan/2017 12:22:29 PM
+
+1 is disonnected 10/Jan/2017 12:27:31 PM
+
+1 is now connected 10/Jan/2017 12:29:46 PM
+
+1 is disonnected 10/Jan/2017 12:30:27 PM
+
+1 is now connected 10/Jan/2017 12:30:56 PM
+
+Initializing nodes... 10/Jan/2017 12:35:26 PM
+
+My FEP node1 now listening on port 1500 10/Jan/2017 12:35:26 PM
+
+my fep node2 now listening on port 1509 10/Jan/2017 12:35:26 PM
+
+1 is now connected 10/Jan/2017 12:36:32 PM
+
+1 is disonnected 10/Jan/2017 12:42:14 PM
+
+1 is now connected 10/Jan/2017 12:42:14 PM
+
+Initializing nodes... 10/Jan/2017 02:04:32 PM
+
+My FEP node1 now listening on port 1500 10/Jan/2017 02:04:32 PM
+
+my fep node2 now listening on port 1509 10/Jan/2017 02:04:32 PM
+
+1 is now connected 10/Jan/2017 02:05:23 PM
+
+1 is disonnected 10/Jan/2017 02:11:51 PM
+
+1 is now connected 10/Jan/2017 02:11:52 PM
+
+1 is disonnected 10/Jan/2017 02:17:15 PM
+
+1 is now connected 10/Jan/2017 02:17:15 PM
+
+1 is disonnected 10/Jan/2017 02:29:57 PM
+
+1 is now connected 10/Jan/2017 02:32:17 PM
+
+1 is disonnected 10/Jan/2017 02:37:25 PM
+
+1 is now connected 10/Jan/2017 02:38:07 PM
+
+1 is disonnected 10/Jan/2017 02:48:08 PM
+
+1 is now connected 10/Jan/2017 02:48:09 PM
+
+Initializing nodes... 10/Jan/2017 03:00:42 PM
+
+My FEP node1 now listening on port 1500 10/Jan/2017 03:00:42 PM
+
+my fep node2 now listening on port 1509 10/Jan/2017 03:00:42 PM
+
+1 is now connected 10/Jan/2017 03:00:43 PM
+
+Message received! 10/Jan/2017 03:02:09 PM
+
+Message received! 10/Jan/2017 03:04:59 PM
+
+Initializing nodes... 10/Jan/2017 03:11:24 PM
+
+My FEP node1 now listening on port 1500 10/Jan/2017 03:11:25 PM
+
+my fep node2 now listening on port 1509 10/Jan/2017 03:11:25 PM
+
+1 is now connected 10/Jan/2017 03:11:49 PM
+
+Message received! 10/Jan/2017 03:13:37 PM
+
+Initializing nodes... 10/Jan/2017 05:11:25 PM
+
+My FEP node1 now listening on port 1500 10/Jan/2017 05:11:26 PM
+
+my fep node2 now listening on port 1509 10/Jan/2017 05:11:26 PM
+
+1 is now connected 10/Jan/2017 05:13:05 PM
+
+1 is disonnected 10/Jan/2017 05:17:45 PM
+
+1 is now connected 10/Jan/2017 05:31:38 PM
+
+1 is disonnected 10/Jan/2017 05:36:38 PM
+
+1 is now connected 10/Jan/2017 05:36:38 PM
+
+1 is disonnected 10/Jan/2017 05:41:38 PM
+
+1 is now connected 10/Jan/2017 05:41:38 PM
+
+1 is disonnected 10/Jan/2017 05:46:38 PM
+
+1 is now connected 10/Jan/2017 05:46:39 PM
+
+1 is disonnected 10/Jan/2017 05:50:34 PM
+
+1 is now connected 10/Jan/2017 05:51:34 PM
+
+1 is disonnected 10/Jan/2017 05:56:34 PM
+
+1 is disonnected 10/Jan/2017 05:56:34 PM
+
+1 is now connected 10/Jan/2017 06:01:35 PM
+
+1 is disonnected 10/Jan/2017 06:03:00 PM
+
+1 is now connected 10/Jan/2017 06:05:18 PM
+
+1 is disonnected 10/Jan/2017 06:06:24 PM
+
+1 is now connected 10/Jan/2017 06:08:04 PM
+
+1 is disonnected 10/Jan/2017 06:13:03 PM
+
+1 is now connected 10/Jan/2017 06:13:04 PM
+
+1 is disonnected 10/Jan/2017 06:13:41 PM
+
+1 is now connected 10/Jan/2017 06:14:31 PM
+
+Message received! 10/Jan/2017 06:15:07 PM
+
+Message received! 10/Jan/2017 06:16:46 PM
+
+Message received! 10/Jan/2017 06:17:31 PM
+
+Initializing nodes... 10/Jan/2017 06:34:48 PM
+
+My FEP node1 now listening on port 1500 10/Jan/2017 06:34:49 PM
+
+my fep node2 now listening on port 1509 10/Jan/2017 06:34:50 PM
+
+Initializing nodes... 10/Jan/2017 06:37:26 PM
+
+My FEP node1 now listening on port 1500 10/Jan/2017 06:37:27 PM
+
+my fep node2 now listening on port 1509 10/Jan/2017 06:37:27 PM
+
+1 is now connected 10/Jan/2017 06:37:30 PM
+
+Initializing nodes... 10/Jan/2017 06:39:56 PM
+
+My FEP node1 now listening on port 1500 10/Jan/2017 06:39:57 PM
+
+my fep node2 now listening on port 1509 10/Jan/2017 06:39:57 PM
+
+1 is now connected 10/Jan/2017 06:42:29 PM
+
+Message received! 10/Jan/2017 06:44:47 PM
+
+1 is disonnected 10/Jan/2017 06:46:02 PM
+
+Initializing nodes... 10/Jan/2017 08:31:04 PM
+
+My FEP node1 now listening on port 1500 10/Jan/2017 08:31:05 PM
+
+my fep node2 now listening on port 1509 10/Jan/2017 08:31:05 PM
+
+1 is now connected 10/Jan/2017 08:31:38 PM
+
+Message received! 10/Jan/2017 08:32:27 PM
+
+Initializing nodes... 10/Jan/2017 08:37:09 PM
+
+My FEP node1 now listening on port 1500 10/Jan/2017 08:37:10 PM
+
+my fep node2 now listening on port 1509 10/Jan/2017 08:37:10 PM
+
+1 is now connected 10/Jan/2017 08:37:35 PM
+
+Message received! 10/Jan/2017 08:38:15 PM
+
+Message received! 10/Jan/2017 08:39:46 PM
+
+Message received! 10/Jan/2017 08:41:51 PM
+
+Message received! 10/Jan/2017 08:44:08 PM
+
+Message received! 10/Jan/2017 08:44:53 PM
+
+Initializing nodes... 10/Jan/2017 08:47:39 PM
+
+My FEP node1 now listening on port 1500 10/Jan/2017 08:47:40 PM
+
+my fep node2 now listening on port 1509 10/Jan/2017 08:47:40 PM
+
+1 is now connected 10/Jan/2017 08:47:55 PM
+
+Message received! 10/Jan/2017 08:48:59 PM
+
+Message received! 10/Jan/2017 08:51:28 PM
+
+Initializing nodes... 10/Jan/2017 08:55:46 PM
+
+My FEP node1 now listening on port 1500 10/Jan/2017 08:55:47 PM
+
+my fep node2 now listening on port 1509 10/Jan/2017 08:55:47 PM
+
+1 is now connected 10/Jan/2017 08:55:56 PM
+
+Message received! 10/Jan/2017 09:00:28 PM
+
+Withdrawal Transaction successful 10/Jan/2017 09:00:40 PM
+
+1 is disonnected 10/Jan/2017 09:05:28 PM
+
+1 is disonnected 10/Jan/2017 09:05:28 PM
+
+Initializing nodes... 11/Jan/2017 09:32:56 AM
+
+My FEP node1 now listening on port 1500 11/Jan/2017 09:32:56 AM
+
+my fep node2 now listening on port 1509 11/Jan/2017 09:32:56 AM
+
+1 is now connected 11/Jan/2017 09:33:53 AM
+
+Message received! 11/Jan/2017 09:34:25 AM
+
+1 is disonnected 11/Jan/2017 09:39:24 AM
+
+Initializing nodes... 11/Jan/2017 12:22:46 PM
+
+My FEP node1 now listening on port 1500 11/Jan/2017 12:22:47 PM
+
+my fep node2 now listening on port 1509 11/Jan/2017 12:22:47 PM
+
+1 is now connected 11/Jan/2017 12:24:41 PM
+
+Message received! 11/Jan/2017 12:25:39 PM
+
+1 is disonnected 11/Jan/2017 12:28:26 PM
+
+1 is now connected 11/Jan/2017 12:32:54 PM
+
+Message received! 11/Jan/2017 12:33:28 PM
+
+Initializing nodes... 11/Jan/2017 12:36:45 PM
+
+My FEP node1 now listening on port 1500 11/Jan/2017 12:36:47 PM
+
+my fep node2 now listening on port 1509 11/Jan/2017 12:36:48 PM
+
+1 is now connected 11/Jan/2017 12:37:05 PM
+
+Message received! 11/Jan/2017 12:37:38 PM
+
+Initializing nodes... 11/Jan/2017 12:44:54 PM
+
+My FEP node1 now listening on port 1500 11/Jan/2017 12:44:55 PM
+
+my fep node2 now listening on port 1509 11/Jan/2017 12:44:55 PM
+
+1 is now connected 11/Jan/2017 12:45:03 PM
+
+Message received! 11/Jan/2017 12:45:25 PM
+
+Message received! 11/Jan/2017 12:47:08 PM
+
+Processing balance enquiry 11/Jan/2017 12:47:37 PM
+
+Message received! 11/Jan/2017 12:48:39 PM
+
+Processing cash withdrawal 11/Jan/2017 12:48:54 PM
+
+Message received! 11/Jan/2017 12:49:38 PM
+
+Processing cash withdrawal 11/Jan/2017 12:49:57 PM
+
+1 is disonnected 11/Jan/2017 12:54:38 PM
+
+1 is now connected 11/Jan/2017 12:54:39 PM
+
+Message received! 11/Jan/2017 12:55:49 PM
+
+Processing cash withdrawal 11/Jan/2017 12:56:15 PM
+
+Withdrawal Transaction successful 11/Jan/2017 12:57:38 PM
+
+Message received! 11/Jan/2017 12:58:24 PM
+
+Processing cash withdrawal 11/Jan/2017 12:58:44 PM
+
+Customer account: 1050000001 debitted NGN300.00000 11/Jan/2017 12:58:47 PM
+
+Gl account: 1000102029 debitted NGN300 11/Jan/2017 12:58:47 PM
+
+Gl account: 4000102018 creditted NGN0.00000 11/Jan/2017 12:58:47 PM
+
+Withdrawal Transaction successful 11/Jan/2017 12:58:47 PM
+
+Initializing nodes... 11/Jan/2017 02:20:14 PM
+
+My FEP node1 now listening on port 1500 11/Jan/2017 02:20:14 PM
+
+my fep node2 now listening on port 1509 11/Jan/2017 02:20:14 PM
+
+1 is now connected 11/Jan/2017 02:20:19 PM
+
+Message received! 11/Jan/2017 02:21:15 PM
+
+Processing cash withdrawal 11/Jan/2017 02:21:51 PM
+
+Customer account: 1050000001 debitted NGN1500.00000 11/Jan/2017 02:22:02 PM
+
+Gl account: 1000102029 creditted NGN1500 11/Jan/2017 02:22:02 PM
+
+Gl account: 4000102018 creditted NGN0.00000 11/Jan/2017 02:22:02 PM
+
+Withdrawal Transaction successful 11/Jan/2017 02:22:02 PM
+
+1 is disonnected 11/Jan/2017 02:26:15 PM
+
+1 is now connected 11/Jan/2017 02:26:15 PM
+
+1 is disonnected 11/Jan/2017 02:31:15 PM
+
+1 is now connected 11/Jan/2017 02:31:15 PM
+
+1 is disonnected 11/Jan/2017 02:36:15 PM
+
+1 is now connected 11/Jan/2017 02:36:15 PM
+
+1 is disonnected 11/Jan/2017 02:40:37 PM
+
+1 is now connected 11/Jan/2017 02:51:58 PM
+
+Message received! 11/Jan/2017 02:54:32 PM
+
+Message received! 11/Jan/2017 02:56:18 PM
+
+Processing Intra-bank transfer 11/Jan/2017 02:56:59 PM
+
+1 is disonnected 11/Jan/2017 03:01:18 PM
+
+1 is disonnected 11/Jan/2017 03:01:19 PM
+
+Initializing nodes... 11/Jan/2017 03:06:04 PM
+
+My FEP node1 now listening on port 1500 11/Jan/2017 03:06:05 PM
+
+my fep node2 now listening on port 1509 11/Jan/2017 03:06:06 PM
+
+1 is now connected 11/Jan/2017 03:06:37 PM
+
+Message received! 11/Jan/2017 03:06:42 PM
+
+Message received! 11/Jan/2017 03:07:49 PM
+
+Processing Intra-bank transfer 11/Jan/2017 03:08:20 PM
+
+Customer account: 2050000002 debitted NGN1520.00000 11/Jan/2017 03:08:29 PM
+
+Customer account: 1050000001 creditted NGN1500 11/Jan/2017 03:08:33 PM
+
+Gl account: 4000102019 creditted NGN20.00000 11/Jan/2017 03:08:35 PM
+
+Transfer executed successfully 11/Jan/2017 03:08:39 PM
+
+1 is disonnected 11/Jan/2017 03:12:49 PM
+
+1 is now connected 11/Jan/2017 03:14:46 PM
+
+Message received! 11/Jan/2017 03:16:24 PM
+
+Processing payment from account 11/Jan/2017 03:16:50 PM
+
+1 is disonnected 11/Jan/2017 03:21:24 PM
+
+1 is disonnected 11/Jan/2017 03:21:24 PM
+
+1 is now connected 11/Jan/2017 03:26:24 PM
+
+Message received! 11/Jan/2017 03:26:38 PM
+
+Processing payment from account 11/Jan/2017 03:26:56 PM
+
+Customer account: 2050000002 debitted NGN38005.00000 11/Jan/2017 03:27:07 PM
+
+Gl account: 2000102017 creditted NGN38000 11/Jan/2017 03:27:11 PM
+
+Gl account: 4000102020 creditted NGN5.00000 11/Jan/2017 03:27:16 PM
+
+Payment Transaction successful 11/Jan/2017 03:27:19 PM
+
+1 is disonnected 11/Jan/2017 03:31:38 PM
+
+1 is now connected 11/Jan/2017 03:31:39 PM
+
+1 is disonnected 11/Jan/2017 03:36:39 PM
+
+1 is now connected 11/Jan/2017 03:36:39 PM
+
+1 is disonnected 11/Jan/2017 03:41:39 PM
+
+1 is now connected 11/Jan/2017 03:41:39 PM
+
+Message received! 11/Jan/2017 03:41:56 PM
+
+Processing payment by deposit 11/Jan/2017 03:42:25 PM
+
+Message received! 11/Jan/2017 03:44:04 PM
+
+Message received! 11/Jan/2017 03:44:59 PM
+
+Processing payment by deposit 11/Jan/2017 03:45:25 PM
+
+Customer account: 1050000003 creditted NGN300000 11/Jan/2017 03:45:54 PM
+
+Gl account: 1000102029 debitted NGN300000 11/Jan/2017 03:45:54 PM
+
+Payment Transaction successful 11/Jan/2017 03:45:54 PM
+
+1 is disonnected 11/Jan/2017 03:49:59 PM
+
+1 is disonnected 11/Jan/2017 03:49:59 PM
+
+1 is now connected 11/Jan/2017 04:17:23 PM
+
+1 is disonnected 11/Jan/2017 04:22:23 PM
+
+1 is now connected 11/Jan/2017 04:22:24 PM
+
+1 is disonnected 11/Jan/2017 04:22:41 PM
+
+1 is now connected 11/Jan/2017 04:25:18 PM
+
+Message received! 11/Jan/2017 04:28:38 PM
+
+Message received! 11/Jan/2017 04:32:30 PM
+
+Message received! 11/Jan/2017 04:34:08 PM
+
+Message received! 11/Jan/2017 04:37:02 PM
+
+Initializing nodes... 11/Jan/2017 04:38:46 PM
+
+My FEP node1 now listening on port 1500 11/Jan/2017 04:38:46 PM
+
+my fep node2 now listening on port 1509 11/Jan/2017 04:38:46 PM
+
+1 is now connected 11/Jan/2017 04:39:43 PM
+
+Message received! 11/Jan/2017 04:40:49 PM
+
+Message received! 11/Jan/2017 04:43:10 PM
+
+Initializing nodes... 11/Jan/2017 05:45:09 PM
+
+My FEP node1 now listening on port 1500 11/Jan/2017 05:45:11 PM
+
+my fep node2 now listening on port 1509 11/Jan/2017 05:45:11 PM
+
+1 is now connected 11/Jan/2017 05:45:14 PM
+
+Message received! 11/Jan/2017 05:47:03 PM
+
+Message received! 11/Jan/2017 05:49:09 PM
+
+Initializing nodes... 11/Jan/2017 05:51:32 PM
+
+My FEP node1 now listening on port 1500 11/Jan/2017 05:51:32 PM
+
+my fep node2 now listening on port 1509 11/Jan/2017 05:51:32 PM
+
+1 is now connected 11/Jan/2017 05:52:08 PM
+
+Message received! 11/Jan/2017 05:52:31 PM
+
+Initializing nodes... 11/Jan/2017 06:13:58 PM
+
+My FEP node1 now listening on port 1500 11/Jan/2017 06:13:59 PM
+
+my fep node2 now listening on port 1509 11/Jan/2017 06:13:59 PM
+
+1 is now connected 11/Jan/2017 06:14:35 PM
+
+1 is disonnected 11/Jan/2017 06:19:35 PM
+
+1 is now connected 11/Jan/2017 06:19:35 PM
+
+Message received! 11/Jan/2017 06:23:08 PM
+
+Message received! 11/Jan/2017 06:24:18 PM
+
+Message received! 11/Jan/2017 06:25:55 PM
+
+Processing balance enquiry 11/Jan/2017 06:26:25 PM
+
+1 is disonnected 11/Jan/2017 06:30:55 PM
+
+1 is disonnected 11/Jan/2017 06:30:56 PM
+
+1 is now connected 11/Jan/2017 06:35:55 PM
+
+Message received! 11/Jan/2017 06:37:08 PM
+
+Message received! 11/Jan/2017 06:38:03 PM
+
+Processing balance enquiry 11/Jan/2017 06:38:17 PM
+
+Message received! 11/Jan/2017 06:40:15 PM
+
+Processing payment by deposit 11/Jan/2017 06:40:27 PM
+
+Customer account: 2050000004 creditted NGN1500000 11/Jan/2017 06:40:32 PM
+
+Gl account: 1000102029 debitted NGN1500000 11/Jan/2017 06:40:32 PM
+
+Payment Transaction successful 11/Jan/2017 06:40:33 PM
+
+1 is disonnected 11/Jan/2017 06:45:15 PM
+
+1 is now connected 11/Jan/2017 06:45:15 PM
+
+1 is disonnected 11/Jan/2017 06:50:15 PM
+
+1 is now connected 11/Jan/2017 06:50:15 PM
+
+1 is disonnected 11/Jan/2017 06:55:15 PM
+
+1 is now connected 11/Jan/2017 06:55:16 PM
+
+1 is disonnected 11/Jan/2017 07:00:16 PM
+
+1 is now connected 11/Jan/2017 07:00:17 PM
+
+1 is disonnected 11/Jan/2017 07:05:17 PM
+
+1 is now connected 11/Jan/2017 07:05:17 PM
+
+1 is disonnected 11/Jan/2017 07:10:17 PM
+
+1 is now connected 11/Jan/2017 07:10:18 PM
+
+Initializing nodes... 11/Jan/2017 09:29:26 PM
+
+My FEP node1 now listening on port 1500 11/Jan/2017 09:29:27 PM
+
+my fep node2 now listening on port 1509 11/Jan/2017 09:29:27 PM
+
+1 is now connected 11/Jan/2017 09:33:12 PM
+
+Message received! 11/Jan/2017 09:33:40 PM
+
+Message received! 11/Jan/2017 09:36:13 PM
+
+Processing payment by deposit 11/Jan/2017 09:36:22 PM
+
+Customer account: 1050000001 creditted NGN100500 11/Jan/2017 09:36:27 PM
+
+Gl account: 1000102029 debitted NGN100500 11/Jan/2017 09:36:27 PM
+
+Payment Transaction successful 11/Jan/2017 09:36:27 PM
+
+1 is disonnected 11/Jan/2017 09:41:13 PM
+
+1 is now connected 11/Jan/2017 09:41:14 PM
+
+1 is disonnected 11/Jan/2017 09:46:14 PM
+
+1 is now connected 11/Jan/2017 09:46:15 PM
+
+1 is disonnected 11/Jan/2017 09:51:15 PM
+
+1 is now connected 11/Jan/2017 09:51:17 PM
+
+1 is disonnected 11/Jan/2017 09:55:21 PM
+
+1 is now connected 11/Jan/2017 09:59:13 PM
+
+Message received! 11/Jan/2017 10:00:32 PM
+
+Processing payment by deposit 11/Jan/2017 10:00:44 PM
+
+Customer account: 1050000001 creditted NGN300000 11/Jan/2017 10:00:45 PM
+
+Gl account: 1000102029 debitted NGN300000 11/Jan/2017 10:00:45 PM
+
+Payment Transaction successful 11/Jan/2017 10:00:45 PM
+
+1 is disonnected 11/Jan/2017 10:02:01 PM
+
+1 is now connected 11/Jan/2017 10:11:38 PM
+
+Message received! 11/Jan/2017 10:11:57 PM
+
+Processing payment by deposit 11/Jan/2017 10:12:07 PM
+
+Customer account: 1050000001 creditted NGN300 11/Jan/2017 10:12:07 PM
+
+Gl account: 1000102029 debitted NGN300 11/Jan/2017 10:12:07 PM
+
+Payment Transaction successful 11/Jan/2017 10:12:07 PM
+
+Message received! 11/Jan/2017 10:15:29 PM
+
+1 is disonnected 11/Jan/2017 10:20:29 PM
+
+1 is now connected 11/Jan/2017 10:20:30 PM
+
+1 is disonnected 11/Jan/2017 10:25:30 PM
+
+1 is now connected 11/Jan/2017 10:26:44 PM
+
+Message received! 11/Jan/2017 10:27:25 PM
+
+Processing a reversal message... 11/Jan/2017 10:27:38 PM
+
+Message received! 11/Jan/2017 10:31:56 PM
+
+Processing cash withdrawal 11/Jan/2017 10:32:07 PM
+
+Customer account: 1050000001 debitted NGN58000.00000 11/Jan/2017 10:32:10 PM
+
+Gl account: 1000102029 creditted NGN58000 11/Jan/2017 10:32:10 PM
+
+Gl account: 4000102018 creditted NGN0.00000 11/Jan/2017 10:32:10 PM
+
+Withdrawal Transaction successful 11/Jan/2017 10:32:10 PM
+
+1 is disonnected 11/Jan/2017 10:37:10 PM
+
+1 is now connected 11/Jan/2017 10:37:11 PM
+
+Message received! 11/Jan/2017 10:38:40 PM
+
+Processing a reversal message... 11/Jan/2017 10:39:26 PM
+
+Customer account: 1050000001 creditted NGN58000.00000 11/Jan/2017 10:39:44 PM
+
+Gl account: 1000102029 debitted NGN58000.00000 11/Jan/2017 10:39:47 PM
+
+Gl account: 4000102018 debitted NGN0.00000 11/Jan/2017 10:39:48 PM
+
+Withdrawal Transaction reversed successfully 11/Jan/2017 10:39:51 PM
+
+1 is disonnected 11/Jan/2017 10:45:11 PM
+
+1 is now connected 11/Jan/2017 10:45:11 PM
+
+Initializing nodes... 11/Jan/2017 10:53:22 PM
+
+My FEP node1 now listening on port 1500 11/Jan/2017 10:53:22 PM
+
+my fep node2 now listening on port 1509 11/Jan/2017 10:53:22 PM
+
+1 is now connected 11/Jan/2017 10:53:24 PM
+
+Message received! 11/Jan/2017 10:57:13 PM
+
+Processing payment from account 11/Jan/2017 10:57:24 PM
+
+Customer account: 1050000001 debitted NGN58005.00000 11/Jan/2017 10:57:25 PM
+
+Gl account: 2000102017 creditted NGN58000 11/Jan/2017 10:57:25 PM
+
+Gl account: 4000102020 creditted NGN5.00000 11/Jan/2017 10:57:26 PM
+
+Payment Transaction successful 11/Jan/2017 10:57:26 PM
+
+1 is disonnected 11/Jan/2017 11:02:13 PM
+
+1 is now connected 11/Jan/2017 11:02:17 PM
+
+Message received! 11/Jan/2017 11:03:25 PM
+
+Processing a reversal message... 11/Jan/2017 11:03:36 PM
+
+Customer account: 1050000001 creditted NGN58005.00000 11/Jan/2017 11:03:36 PM
+
+Gl account: 2000102017 debitted NGN58000.00000 11/Jan/2017 11:03:36 PM
+
+Gl account: 4000102020 debitted NGN5.00000 11/Jan/2017 11:03:36 PM
+
+Payment reversed successfully 11/Jan/2017 11:03:37 PM
+
+Message received! 11/Jan/2017 11:06:33 PM
+
+Processing Intra-bank transfer 11/Jan/2017 11:06:44 PM
+
+Customer account: 1050000001 debitted NGN400020.00000 11/Jan/2017 11:06:48 PM
+
+Customer account: 2050000004 creditted NGN400000 11/Jan/2017 11:06:48 PM
+
+Gl account: 4000102019 creditted NGN20.00000 11/Jan/2017 11:06:49 PM
+
+Transfer executed successfully 11/Jan/2017 11:06:49 PM
+
+Message received! 11/Jan/2017 11:10:43 PM
+
+Message received! 11/Jan/2017 11:12:35 PM
+
+Message received! 11/Jan/2017 11:13:30 PM
+
+Processing a reversal message... 11/Jan/2017 11:13:39 PM
+
+Customer account: 1050000001 creditted NGN400005.00000 11/Jan/2017 11:13:40 PM
+
+Gl account: 2000102017 debitted NGN400000.00000 11/Jan/2017 11:13:40 PM
+
+Gl account: 4000102020 debitted NGN5.00000 11/Jan/2017 11:13:41 PM
+
+Payment reversed successfully 11/Jan/2017 11:13:41 PM
+
+1 is disonnected 11/Jan/2017 11:18:30 PM
+
+1 is now connected 11/Jan/2017 11:18:31 PM
+
+Initializing nodes... 15/Jan/2017 01:46:58 AM
+
+My FEP node1 now listening on port 1500 15/Jan/2017 01:46:58 AM
+
+my fep node2 now listening on port 1509 15/Jan/2017 01:46:59 AM
+
+Initializing nodes... 15/Jan/2017 08:07:58 AM
+
+My FEP node1 now listening on port 1500 15/Jan/2017 08:07:58 AM
+
+my fep node2 now listening on port 1509 15/Jan/2017 08:07:59 AM
+
+1 is now connected 15/Jan/2017 08:09:43 AM
+
+1 is disonnected 15/Jan/2017 08:14:43 AM
+
+1 is now connected 15/Jan/2017 08:14:45 AM
+
+1 is disonnected 15/Jan/2017 08:19:45 AM
+
+1 is now connected 15/Jan/2017 08:19:46 AM
+
+1 is disonnected 15/Jan/2017 08:23:50 AM
+
+1 is now connected 15/Jan/2017 08:24:12 AM
+
+1 is disonnected 15/Jan/2017 08:26:21 AM
+
+1 is now connected 15/Jan/2017 08:29:05 AM
+
+Initializing nodes... 15/Jan/2017 08:34:40 AM
+
+My FEP node1 now listening on port 1500 15/Jan/2017 08:34:41 AM
+
+my fep node2 now listening on port 1509 15/Jan/2017 08:34:41 AM
+
+1 is now connected 15/Jan/2017 08:37:28 AM
+
+1 is disonnected 15/Jan/2017 08:41:07 AM
+
+1 is now connected 15/Jan/2017 08:42:42 AM
+
+1 is disonnected 15/Jan/2017 08:43:57 AM
+
+1 is now connected 15/Jan/2017 08:58:52 AM
+
+1 is disonnected 15/Jan/2017 08:59:59 AM
+
+1 is now connected 15/Jan/2017 09:00:49 AM
+
+1 is disonnected 15/Jan/2017 09:05:49 AM
+
+1 is now connected 15/Jan/2017 09:08:21 AM
+
+Message received! 15/Jan/2017 09:09:09 AM
+
+1 is disonnected 15/Jan/2017 09:14:09 AM
+
+1 is now connected 15/Jan/2017 09:14:09 AM
+
+1 is disonnected 15/Jan/2017 09:15:28 AM
+
+1 is now connected 15/Jan/2017 09:20:26 AM
+
+1 is disonnected 15/Jan/2017 09:25:26 AM
+
+1 is disonnected 15/Jan/2017 09:25:26 AM
+
+Initializing nodes... 15/Jan/2017 09:38:22 AM
+
+My FEP node1 now listening on port 1500 15/Jan/2017 09:38:24 AM
+
+my fep node2 now listening on port 1509 15/Jan/2017 09:38:24 AM
+
+1 is now connected 15/Jan/2017 09:39:08 AM
+
+Message received! 15/Jan/2017 09:39:47 AM
+
+Processing balance enquiry 15/Jan/2017 09:39:58 AM
+
+Message received! 15/Jan/2017 09:42:58 AM
+
+Message received! 15/Jan/2017 09:45:19 AM
+
+Processing payment by deposit 15/Jan/2017 09:45:35 AM
+
+Message received! 15/Jan/2017 09:47:15 AM
+
+Processing payment by deposit 15/Jan/2017 09:47:25 AM
+
+Customer account: 1050000008 creditted NGN300000 15/Jan/2017 09:47:25 AM
+
+Gl account: 1000102029 debitted NGN300000 15/Jan/2017 09:47:25 AM
+
+Payment Transaction successful 15/Jan/2017 09:47:26 AM
+
+Message received! 15/Jan/2017 09:51:49 AM
+
+Processing a reversal message... 15/Jan/2017 09:52:07 AM
+
+Message received! 15/Jan/2017 09:54:13 AM
+
+Processing payment from account 15/Jan/2017 09:54:35 AM
+
+1 is disonnected 15/Jan/2017 09:59:15 AM
+
+1 is now connected 15/Jan/2017 10:07:58 AM
+
+Message received! 15/Jan/2017 10:08:27 AM
+
+Processing payment from account 15/Jan/2017 10:08:44 AM
+
+Customer account: 1050000008 debitted NGN150100.00000 15/Jan/2017 10:08:46 AM
+
+Gl account: 2000102017 creditted NGN150000 15/Jan/2017 10:08:46 AM
+
+Gl account: 4000102020 creditted NGN100.00000 15/Jan/2017 10:08:46 AM
+
+Payment Transaction successful 15/Jan/2017 10:08:46 AM
+
+1 is disonnected 15/Jan/2017 10:13:27 AM
+
+1 is disonnected 15/Jan/2017 10:13:27 AM
+
+Initializing nodes... 15/Jan/2017 10:17:13 AM
+
+My FEP node1 now listening on port 1500 15/Jan/2017 10:17:15 AM
+
+my fep node2 now listening on port 1509 15/Jan/2017 10:17:15 AM
+
+1 is now connected 15/Jan/2017 10:17:18 AM
+
+Message received! 15/Jan/2017 10:18:26 AM
+
+Processing a reversal message... 15/Jan/2017 10:18:32 AM
+
+Customer account: 1050000008 creditted NGN150100.00000 15/Jan/2017 10:18:32 AM
+
+Gl account: 2000102017 debitted NGN150000.00000 15/Jan/2017 10:18:32 AM
+
+Gl account: 4000102020 debitted NGN100.00000 15/Jan/2017 10:18:32 AM
+
+Payment reversed successfully 15/Jan/2017 10:18:33 AM
+
+Message received! 15/Jan/2017 10:22:20 AM
+
+Processing Intra-bank transfer 15/Jan/2017 10:22:28 AM
+
+Customer account: 1050000008 debitted NGN200020.00000 15/Jan/2017 10:22:36 AM
+
+Customer account: 2050000007 creditted NGN200000 15/Jan/2017 10:22:36 AM
+
+Gl account: 4000102019 creditted NGN20.00000 15/Jan/2017 10:22:36 AM
+
+Transfer executed successfully 15/Jan/2017 10:22:36 AM
+
+Message received! 15/Jan/2017 10:24:18 AM
+
+Processing a reversal message... 15/Jan/2017 10:24:29 AM
+
+Message received! 15/Jan/2017 10:25:57 AM
+
+Processing payment by deposit 15/Jan/2017 10:26:10 AM
+
+Customer account: 2050000007 creditted NGN75000 15/Jan/2017 10:26:11 AM
+
+Gl account: 1000102029 debitted NGN75000 15/Jan/2017 10:26:11 AM
+
+Payment Transaction successful 15/Jan/2017 10:26:12 AM
+
+Message received! 15/Jan/2017 10:27:21 AM
+
+Processing a reversal message... 15/Jan/2017 10:27:27 AM
+
+Customer account: 2050000007 debitted NGN200000.00000 15/Jan/2017 10:27:28 AM
+
+Customer account: 1050000008 creditted NGN200020.00000 15/Jan/2017 10:27:28 AM
+
+Gl account: 4000102019 debitted NGN20.00000 15/Jan/2017 10:27:28 AM
+
+Transfer reversed successfully 15/Jan/2017 10:27:28 AM
+
+1 is disonnected 15/Jan/2017 10:32:21 AM
+
+1 is disonnected 15/Jan/2017 10:32:21 AM
+
+Initializing nodes... 16/Jan/2017 12:30:54 PM
+
+my fep node2 now listening on port 1509 16/Jan/2017 12:31:05 PM
+
+Initializing nodes... 16/Jan/2017 01:22:09 PM
+
+my fep node2 now listening on port 1509 16/Jan/2017 01:22:12 PM
+
+Initializing nodes... 16/Jan/2017 01:35:36 PM
+
+my fep node2 now listening on port 1509 16/Jan/2017 01:35:36 PM
+
+Initializing nodes... 16/Jan/2017 02:04:39 PM
+
+My FEP node1 now listening on port 1500 16/Jan/2017 02:04:41 PM
+
+my fep node2 now listening on port 1509 16/Jan/2017 02:04:41 PM
+
+Initializing nodes... 16/Jan/2017 02:06:52 PM
+
+My FEP node1 now listening on port 1500 16/Jan/2017 02:06:52 PM
+
+my fep node2 now listening on port 1509 16/Jan/2017 02:06:52 PM
+
+1 is now connected 16/Jan/2017 02:11:47 PM
+
+Message received! 16/Jan/2017 02:12:47 PM
+
+1 is disonnected 16/Jan/2017 02:17:42 PM
+
+1 is now connected 16/Jan/2017 02:17:42 PM
+
+Message received! 16/Jan/2017 02:18:07 PM
+
+Processing balance enquiry 16/Jan/2017 02:18:12 PM
+
+1 is disonnected 16/Jan/2017 02:21:03 PM
+
+Initializing nodes... 17/Jan/2017 05:15:01 PM
+
+My FEP node1 now listening on port 1500 17/Jan/2017 05:15:01 PM
+
+my fep node2 now listening on port 1509 17/Jan/2017 05:15:01 PM
+
+Initializing nodes... 17/Jan/2017 05:15:24 PM
+
+My FEP node1 now listening on port 1500 17/Jan/2017 05:15:25 PM
+
+my fep node2 now listening on port 1509 17/Jan/2017 05:15:25 PM
+
+2 is now connected 17/Jan/2017 05:16:14 PM
+
+2 is disonnected 17/Jan/2017 05:21:14 PM
+
+2 is now connected 17/Jan/2017 05:21:14 PM
+
+Initializing nodes... 17/Jan/2017 05:27:34 PM
+
+My FEP node1 now listening on port 1500 17/Jan/2017 05:27:34 PM
+
+my fep node2 now listening on port 1509 17/Jan/2017 05:27:34 PM
+
+2 is now connected 17/Jan/2017 05:28:27 PM
+
+Message received! 17/Jan/2017 05:30:55 PM
+
+Processing balance enquiry 17/Jan/2017 05:31:01 PM
+
+2 is disonnected 17/Jan/2017 05:35:41 PM
+
+2 is now connected 17/Jan/2017 05:35:42 PM
+
+2 is disonnected 17/Jan/2017 05:40:42 PM
+
+2 is now connected 17/Jan/2017 05:40:42 PM
+
+Message received! 17/Jan/2017 05:40:57 PM
+
+Processing cash withdrawal 17/Jan/2017 05:40:58 PM
+
+Customer account: 1050000001 debitted NGN300010.00000 17/Jan/2017 05:40:59 PM
+
+Gl account: 1000102029 creditted NGN300000 17/Jan/2017 05:40:59 PM
+
+Gl account: 4000102018 creditted NGN10.00000 17/Jan/2017 05:40:59 PM
+
+Withdrawal Transaction successful 17/Jan/2017 05:40:59 PM
+
+Message received! 17/Jan/2017 05:42:27 PM
+
+Message received! 17/Jan/2017 05:43:35 PM
+
+Message received! 17/Jan/2017 05:43:50 PM
+
+Processing a reversal message... 17/Jan/2017 05:43:50 PM
+
+Customer account: 1050000001 creditted NGN300010.00000 17/Jan/2017 05:43:51 PM
+
+Gl account: 1000102029 debitted NGN300000.00000 17/Jan/2017 05:43:51 PM
+
+Gl account: 4000102018 debitted NGN10.00000 17/Jan/2017 05:43:51 PM
+
+Withdrawal Transaction reversed successfully 17/Jan/2017 05:43:51 PM
+
+2 is disonnected 17/Jan/2017 05:48:50 PM
+
+2 is disonnected 17/Jan/2017 05:48:51 PM
+
+2 is now connected 17/Jan/2017 05:53:50 PM
+
+Message received! 17/Jan/2017 05:55:25 PM
+
+Processing Intra-bank transfer 17/Jan/2017 05:55:25 PM
+
+Customer account: 1050000001 debitted NGN100010.00000 17/Jan/2017 05:55:27 PM
+
+Customer account: 2050000001 creditted NGN100000 17/Jan/2017 05:55:28 PM
+
+Gl account: 4000102019 creditted NGN10.00000 17/Jan/2017 05:55:28 PM
+
+Transfer executed successfully 17/Jan/2017 05:55:28 PM
+
+Message received! 17/Jan/2017 05:59:38 PM
+
+Processing Intra-bank transfer 17/Jan/2017 05:59:38 PM
+
+2 is disonnected 17/Jan/2017 06:00:51 PM
+
+Initializing nodes... 19/Jan/2017 05:00:58 PM
+
+My FEP node1 now listening on port 1500 19/Jan/2017 05:00:58 PM
+
+my fep node2 now listening on port 1509 19/Jan/2017 05:00:59 PM
+
+2 is now connected 19/Jan/2017 05:03:25 PM
+
+Message received! 19/Jan/2017 05:03:55 PM
+
+Processing cash withdrawal 19/Jan/2017 05:03:55 PM
+
+Customer account: 1050000001 debitted NGN3010.00 19/Jan/2017 05:03:58 PM
+
+Gl account: 1000102029 creditted NGN3000 19/Jan/2017 05:03:58 PM
+
+Gl account: 4000102018 creditted NGN10.00 19/Jan/2017 05:03:58 PM
+
+Withdrawal Transaction successful 19/Jan/2017 05:03:58 PM
+
+2 is disonnected 19/Jan/2017 05:03:58 PM
+
+Initializing nodes... 19/Jan/2017 05:10:26 PM
+
+My FEP node1 now listening on port 1500 19/Jan/2017 05:10:26 PM
+
+my fep node2 now listening on port 1509 19/Jan/2017 05:10:27 PM
+
+2 is now connected 19/Jan/2017 05:10:27 PM
+
+Message received! 19/Jan/2017 05:10:41 PM
+
+Processing cash withdrawal 19/Jan/2017 05:10:43 PM
+
+Customer account: 1050000001 debitted NGN3010.00 19/Jan/2017 05:10:48 PM
+
+Gl account: 1000102029 creditted NGN3000 19/Jan/2017 05:10:48 PM
+
+Gl account: 4000102018 creditted NGN10.00 19/Jan/2017 05:10:48 PM
+
+Withdrawal Transaction successful 19/Jan/2017 05:10:49 PM
+
+Message received! 19/Jan/2017 05:12:16 PM
+
+Processing cash withdrawal 19/Jan/2017 05:12:17 PM
+
+Customer account: 1050000001 debitted NGN3010.00 19/Jan/2017 05:12:18 PM
+
+Gl account: 1000102029 creditted NGN3000 19/Jan/2017 05:12:18 PM
+
+Gl account: 4000102018 creditted NGN10.00 19/Jan/2017 05:12:18 PM
+
+Withdrawal Transaction successful 19/Jan/2017 05:12:18 PM
+
+2 is disonnected 19/Jan/2017 05:17:16 PM
+
+2 is disonnected 19/Jan/2017 05:17:18 PM
+
+2 is now connected 19/Jan/2017 05:22:17 PM
+
+2 is disonnected 19/Jan/2017 05:25:44 PM
+
+Initializing nodes... 19/Jan/2017 05:37:29 PM
+
+My FEP node1 now listening on port 1500 19/Jan/2017 05:37:29 PM
+
+my fep node2 now listening on port 1509 19/Jan/2017 05:37:29 PM
+
+2 is now connected 19/Jan/2017 05:38:25 PM
+
+2 is disonnected 19/Jan/2017 05:42:12 PM
+
+2 is now connected 19/Jan/2017 05:42:36 PM
+
+2 is disonnected 19/Jan/2017 05:47:36 PM
+
+2 is now connected 19/Jan/2017 05:48:05 PM
+
+2 is disonnected 19/Jan/2017 05:48:07 PM
+
+2 is now connected 19/Jan/2017 05:48:29 PM
+
+Message received! 19/Jan/2017 05:48:37 PM
+
+2 is disonnected 19/Jan/2017 05:48:37 PM
+
